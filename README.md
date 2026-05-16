@@ -20,22 +20,19 @@ I started this because I wanted to get better at problem-solving. I also started
 
 ## 📊 progress
 
-![solved](https://img.shields.io/badge/solved-12-brightgreen)
+![solved](https://img.shields.io/badge/solved-9-brightgreen)
 
 | # | Problem | Topic |
 |---|---------|-------|
-| 1 | Two Sum | Hash Map |
-| 2 | Binary Search | Binary Search |
-| 3 | Valid Palindrome | Two Pointers |
-| 4 | Valid Parentheses | Stack |
-| 5 | Reverse Linked List | Linked List |
-| 6 | Invert Binary Tree | Tree / BFS |
-| 7 | Kth Largest Element in a Stream | Heap |
-| 8 | Best Time to Buy and Sell Stock | Sliding Window |
-| 9 | Palindrome Number | Math |
-| 10 | Subsets | Backtracking |
-| 11 | Number of Islands | Graph / BFS |
-| 12 | Implement Trie Prefix Tree | Trie |
+| 1 | 1. Two Sum | — |
+| 2 | 121. Best Time to Buy and Sell Stock | — |
+| 3 | 125. Valid Palindrome | — |
+| 4 | 20. Valid Parentheses | — |
+| 5 | 206. Reverse Linked List | — |
+| 6 | 226. Invert Binary Tree | — |
+| 7 | 703. Kth Largest Element in a Stream | — |
+| 8 | 704. Binary Search | — |
+| 9 | 9. Palindrome Number | — |
 
 ---
 
