@@ -25,14 +25,14 @@ I started this because I wanted to get better at problem-solving. I also started
 | # | Problem | Topic |
 |---|---------|-------|
 | 1 | 1. Two Sum | Hash Map |
-| 2 | 9. Palindrome Number | Math |
-| 3 | 20. Valid Parentheses | Stack |
-| 4 | 121. Best Time to Buy and Sell Stock | Sliding Window |
-| 5 | 125. Valid Palindrome | Two Pointers |
-| 6 | 206. Reverse Linked List | Linked List |
-| 7 | 226. Invert Binary Tree | Tree / BFS |
-| 8 | 703. Kth Largest Element in a Stream | Heap |
-| 9 | 704. Binary Search | Binary Search |
+| 2 | 121. Best Time to Buy and Sell Stock | Sliding Window |
+| 3 | 125. Valid Palindrome | Two Pointers |
+| 4 | 20. Valid Parentheses | Stack |
+| 5 | 206. Reverse Linked List | Linked List |
+| 6 | 226. Invert Binary Tree | Tree / BFS |
+| 7 | 703. Kth Largest Element in a Stream | Heap |
+| 8 | 704. Binary Search | Binary Search |
+| 9 | 9. Palindrome Number | Math |
 
 ---
 
