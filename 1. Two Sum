@@ -1,4 +1,4 @@
-//brute force
+//Brute Force：Time O(n^2) , Space O(1)
 
 class Solution:
     def twoSum(self, nums, target):
@@ -11,7 +11,8 @@ class Solution:
 
 
 
-//hashmap
+//Hashmap: Time O(n), Space O(n)
+
 class Solution:
     def twoSum(self, nums, target):
         hashmap = {}
